@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.Arrays;
+
 public class MergeSort {
     public static void main(String[] args) {
         int a[] ={1,3,4,7,8,9,11,13,14,15};
