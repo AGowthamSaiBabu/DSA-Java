@@ -1,3 +1,5 @@
+//BinarySearch
+
 public class BinarySearch {
     public static void main(String[] args) {
         int arr [] ={10,20,30,44,56,77};
